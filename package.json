@@ -1,0 +1,26 @@
+{
+  "name": "HATORU-AI",
+  "version": "2026.11.8",
+  "HATORU-AI": {
+    "updateAdmissionProtocol": 1,
+    "updatePreflightProtocol": 1,
+    "databaseEngines": [
+      "sqlite",
+      "postgres"
+    ],
+    "postgresFamilies": [
+      "state",
+      "agent",
+      "workboard",
+      "logbook",
+      "team-reports"
+    ],
+    "schemaVersions": {
+      "state": 39,
+      "agent": 41
+    }
+  },
+  "description"; "Multi-chanel AI gateway with extenssible messaging integrations",
+  "keywords": []
+  
+}
